@@ -3,40 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\katik\\Documents\\GitHub\\AJAXProject\\AdvancedAjax\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EBA2AAC1-58F6-4D8A-BD28-9A17F3855F14}|AdvancedAjax.csproj|c:\\users\\katik\\documents\\github\\ajaxproject\\advancedajax\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA2AAC1-58F6-4D8A-BD28-9A17F3855F14}|AdvancedAjax.csproj|solutionrelative:controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EBA2AAC1-58F6-4D8A-BD28-9A17F3855F14}|AdvancedAjax.csproj|c:\\users\\katik\\documents\\github\\ajaxproject\\advancedajax\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EBA2AAC1-58F6-4D8A-BD28-9A17F3855F14}|AdvancedAjax.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBA2AAC1-58F6-4D8A-BD28-9A17F3855F14}|AdvancedAjax.csproj|c:\\users\\katik\\documents\\github\\ajaxproject\\advancedajax\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBA2AAC1-58F6-4D8A-BD28-9A17F3855F14}|AdvancedAjax.csproj|solutionrelative:controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBA2AAC1-58F6-4D8A-BD28-9A17F3855F14}|AdvancedAjax.csproj|c:\\users\\katik\\documents\\github\\ajaxproject\\advancedajax\\views\\country\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EBA2AAC1-58F6-4D8A-BD28-9A17F3855F14}|AdvancedAjax.csproj|solutionrelative:views\\country\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBA2AAC1-58F6-4D8A-BD28-9A17F3855F14}|AdvancedAjax.csproj|c:\\users\\katik\\documents\\github\\ajaxproject\\advancedajax\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBA2AAC1-58F6-4D8A-BD28-9A17F3855F14}|AdvancedAjax.csproj|solutionrelative:models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBA2AAC1-58F6-4D8A-BD28-9A17F3855F14}|AdvancedAjax.csproj|c:\\users\\katik\\documents\\github\\ajaxproject\\advancedajax\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBA2AAC1-58F6-4D8A-BD28-9A17F3855F14}|AdvancedAjax.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBA2AAC1-58F6-4D8A-BD28-9A17F3855F14}|AdvancedAjax.csproj|c:\\users\\katik\\documents\\github\\ajaxproject\\advancedajax\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EBA2AAC1-58F6-4D8A-BD28-9A17F3855F14}|AdvancedAjax.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBA2AAC1-58F6-4D8A-BD28-9A17F3855F14}|AdvancedAjax.csproj|c:\\users\\katik\\documents\\github\\ajaxproject\\advancedajax\\migrations\\20250514124609_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBA2AAC1-58F6-4D8A-BD28-9A17F3855F14}|AdvancedAjax.csproj|solutionrelative:migrations\\20250514124609_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBA2AAC1-58F6-4D8A-BD28-9A17F3855F14}|AdvancedAjax.csproj|c:\\users\\katik\\documents\\github\\ajaxproject\\advancedajax\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBA2AAC1-58F6-4D8A-BD28-9A17F3855F14}|AdvancedAjax.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBA2AAC1-58F6-4D8A-BD28-9A17F3855F14}|AdvancedAjax.csproj|c:\\users\\katik\\documents\\github\\ajaxproject\\advancedajax\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBA2AAC1-58F6-4D8A-BD28-9A17F3855F14}|AdvancedAjax.csproj|solutionrelative:models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EBA2AAC1-58F6-4D8A-BD28-9A17F3855F14}|AdvancedAjax.csproj|c:\\users\\katik\\documents\\github\\ajaxproject\\advancedajax\\views\\city\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBA2AAC1-58F6-4D8A-BD28-9A17F3855F14}|AdvancedAjax.csproj|solutionrelative:views\\city\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,122 +22,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\katik\\Documents\\GitHub\\AJAXProject\\AdvancedAjax\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\katik\\Documents\\GitHub\\AJAXProject\\AdvancedAjax\\Views\\Shared\\_Layout.cshtml*",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml*",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAByAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\katik\\Documents\\GitHub\\AJAXProject\\AdvancedAjax\\Views\\City\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\City\\Index.cshtml",
+              "ToolTip": "C:\\Users\\katik\\Documents\\GitHub\\AJAXProject\\AdvancedAjax\\Views\\City\\Index.cshtml",
+              "RelativeToolTip": "Views\\City\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T10:52:39.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T11:13:21.685Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\katik\\Documents\\GitHub\\AJAXProject\\AdvancedAjax\\Views\\Country\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Country\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\katik\\Documents\\GitHub\\AJAXProject\\AdvancedAjax\\Views\\Country\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Country\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T10:50:33.916Z",
+              "DocumentIndex": 0,
+              "Title": "CityController.cs",
+              "DocumentMoniker": "C:\\Users\\katik\\Documents\\GitHub\\AJAXProject\\AdvancedAjax\\Controllers\\CityController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CityController.cs",
+              "ToolTip": "C:\\Users\\katik\\Documents\\GitHub\\AJAXProject\\AdvancedAjax\\Controllers\\CityController.cs",
+              "RelativeToolTip": "Controllers\\CityController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAUwEgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T11:10:15.332Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CountryController.cs",
-              "DocumentMoniker": "C:\\Users\\katik\\Documents\\GitHub\\AJAXProject\\AdvancedAjax\\Controllers\\CountryController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CountryController.cs",
-              "ToolTip": "C:\\Users\\katik\\Documents\\GitHub\\AJAXProject\\AdvancedAjax\\Controllers\\CountryController.cs",
-              "RelativeToolTip": "Controllers\\CountryController.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAswEcAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T13:06:59.702Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\katik\\Documents\\GitHub\\AJAXProject\\AdvancedAjax\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\katik\\Documents\\GitHub\\AJAXProject\\AdvancedAjax\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-14T12:41:34.036Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\katik\\Documents\\GitHub\\AJAXProject\\AdvancedAjax\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\katik\\Documents\\GitHub\\AJAXProject\\AdvancedAjax\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T12:30:31.887Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "City.cs",
-              "DocumentMoniker": "C:\\Users\\katik\\Documents\\GitHub\\AJAXProject\\AdvancedAjax\\Models\\City.cs",
-              "RelativeDocumentMoniker": "Models\\City.cs",
-              "ToolTip": "C:\\Users\\katik\\Documents\\GitHub\\AJAXProject\\AdvancedAjax\\Models\\City.cs",
-              "RelativeToolTip": "Models\\City.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T12:33:58.605Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20250514124609_CreateDb.cs",
-              "DocumentMoniker": "C:\\Users\\katik\\Documents\\GitHub\\AJAXProject\\AdvancedAjax\\Migrations\\20250514124609_CreateDb.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250514124609_CreateDb.cs",
-              "ToolTip": "C:\\Users\\katik\\Documents\\GitHub\\AJAXProject\\AdvancedAjax\\Migrations\\20250514124609_CreateDb.cs",
-              "RelativeToolTip": "Migrations\\20250514124609_CreateDb.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T12:46:09.746Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\katik\\Documents\\GitHub\\AJAXProject\\AdvancedAjax\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\katik\\Documents\\GitHub\\AJAXProject\\AdvancedAjax\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T12:40:25.89Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Country.cs",
-              "DocumentMoniker": "C:\\Users\\katik\\Documents\\GitHub\\AJAXProject\\AdvancedAjax\\Models\\Country.cs",
-              "RelativeDocumentMoniker": "Models\\Country.cs",
-              "ToolTip": "C:\\Users\\katik\\Documents\\GitHub\\AJAXProject\\AdvancedAjax\\Models\\Country.cs",
-              "RelativeToolTip": "Models\\Country.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T12:24:18.129Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\katik\\Documents\\GitHub\\AJAXProject\\AdvancedAjax\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\katik\\Documents\\GitHub\\AJAXProject\\AdvancedAjax\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T11:16:48.4Z"
             }
           ]
         }
