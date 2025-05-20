@@ -3,7 +3,6 @@ wwwroot\favicon.ico
 wwwroot\Images\697bfb11-67c2-4b8b-9436-f68a1aa1e37c_Britney_Spears_2013_(Straighten_Crop).jpg
 wwwroot\Images\bcad73b5-1bb5-4aa1-8a07-70b3d8a81877_Britney_Spears_2013_(Straighten_Crop).jpg
 wwwroot\Images\noimage.png
-wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
@@ -63,3 +62,4 @@ wwwroot\lib\jquery\dist\jquery.js
 wwwroot\lib\jquery\dist\jquery.min.js
 wwwroot\lib\jquery\dist\jquery.min.map
 wwwroot\lib\jquery\LICENSE.txt
+wwwroot\js\site.js
