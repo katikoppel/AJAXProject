@@ -7,12 +7,28 @@
       "RelativeMoniker": "D:0:0:{EBA2AAC1-58F6-4D8A-BD28-9A17F3855F14}|AdvancedAjax.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{EBA2AAC1-58F6-4D8A-BD28-9A17F3855F14}|AdvancedAjax.csproj|c:\\users\\katik\\documents\\github\\ajaxproject\\advancedajax\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBA2AAC1-58F6-4D8A-BD28-9A17F3855F14}|AdvancedAjax.csproj|solutionrelative:views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA2AAC1-58F6-4D8A-BD28-9A17F3855F14}|AdvancedAjax.csproj|c:\\users\\katik\\documents\\github\\ajaxproject\\advancedajax\\views\\country\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBA2AAC1-58F6-4D8A-BD28-9A17F3855F14}|AdvancedAjax.csproj|solutionrelative:views\\country\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EBA2AAC1-58F6-4D8A-BD28-9A17F3855F14}|AdvancedAjax.csproj|c:\\users\\katik\\documents\\github\\ajaxproject\\advancedajax\\views\\country\\_createmodalform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EBA2AAC1-58F6-4D8A-BD28-9A17F3855F14}|AdvancedAjax.csproj|solutionrelative:views\\country\\_createmodalform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBA2AAC1-58F6-4D8A-BD28-9A17F3855F14}|AdvancedAjax.csproj|c:\\users\\katik\\documents\\github\\ajaxproject\\advancedajax\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EBA2AAC1-58F6-4D8A-BD28-9A17F3855F14}|AdvancedAjax.csproj|solutionrelative:views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EBA2AAC1-58F6-4D8A-BD28-9A17F3855F14}|AdvancedAjax.csproj|c:\\users\\katik\\documents\\github\\ajaxproject\\advancedajax\\views\\city\\_createmodalform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBA2AAC1-58F6-4D8A-BD28-9A17F3855F14}|AdvancedAjax.csproj|solutionrelative:views\\city\\_createmodalform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA2AAC1-58F6-4D8A-BD28-9A17F3855F14}|AdvancedAjax.csproj|c:\\users\\katik\\documents\\github\\ajaxproject\\advancedajax\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA2AAC1-58F6-4D8A-BD28-9A17F3855F14}|AdvancedAjax.csproj|solutionrelative:controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA2AAC1-58F6-4D8A-BD28-9A17F3855F14}|AdvancedAjax.csproj|c:\\users\\katik\\documents\\github\\ajaxproject\\advancedajax\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA2AAC1-58F6-4D8A-BD28-9A17F3855F14}|AdvancedAjax.csproj|solutionrelative:models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EBA2AAC1-58F6-4D8A-BD28-9A17F3855F14}|AdvancedAjax.csproj|c:\\users\\katik\\documents\\github\\ajaxproject\\advancedajax\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,41 +62,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CountryController.cs",
-              "DocumentMoniker": "C:\\Users\\katik\\Documents\\GitHub\\AJAXProject\\AdvancedAjax\\Controllers\\CountryController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CountryController.cs",
-              "ToolTip": "C:\\Users\\katik\\Documents\\GitHub\\AJAXProject\\AdvancedAjax\\Controllers\\CountryController.cs",
-              "RelativeToolTip": "Controllers\\CountryController.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAUwIgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T17:00:11.111Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\katik\\Documents\\GitHub\\AJAXProject\\AdvancedAjax\\Views\\Customer\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Customer\\Create.cshtml",
-              "ToolTip": "C:\\Users\\katik\\Documents\\GitHub\\AJAXProject\\AdvancedAjax\\Views\\Customer\\Create.cshtml",
-              "RelativeToolTip": "Views\\Customer\\Create.cshtml",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAAAHAAAAASAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\katik\\Documents\\GitHub\\AJAXProject\\AdvancedAjax\\Views\\Country\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Country\\Create.cshtml",
+              "ToolTip": "C:\\Users\\katik\\Documents\\GitHub\\AJAXProject\\AdvancedAjax\\Views\\Country\\Create.cshtml",
+              "RelativeToolTip": "Views\\Country\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T17:58:40.642Z",
+              "WhenOpened": "2025-05-20T19:10:09.315Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "_CreateModalForm.cshtml",
               "DocumentMoniker": "C:\\Users\\katik\\Documents\\GitHub\\AJAXProject\\AdvancedAjax\\Views\\Country\\_CreateModalForm.cshtml",
               "RelativeDocumentMoniker": "Views\\Country\\_CreateModalForm.cshtml",
               "ToolTip": "C:\\Users\\katik\\Documents\\GitHub\\AJAXProject\\AdvancedAjax\\Views\\Country\\_CreateModalForm.cshtml",
               "RelativeToolTip": "Views\\Country\\_CreateModalForm.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-20T17:49:01.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\katik\\Documents\\GitHub\\AJAXProject\\AdvancedAjax\\Views\\Customer\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\Create.cshtml",
+              "ToolTip": "C:\\Users\\katik\\Documents\\GitHub\\AJAXProject\\AdvancedAjax\\Views\\Customer\\Create.cshtml",
+              "RelativeToolTip": "Views\\Customer\\Create.cshtml",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAQwIYAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T17:58:40.642Z",
               "EditorCaption": ""
             },
             {
@@ -91,7 +107,7 @@
               "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
               "ToolTip": "C:\\Users\\katik\\Documents\\GitHub\\AJAXProject\\AdvancedAjax\\wwwroot\\js\\site.js",
               "RelativeToolTip": "wwwroot\\js\\site.js",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAQwEkAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAYwE0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-05-20T15:57:09.787Z",
               "EditorCaption": ""
@@ -99,6 +115,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "_CreateModalForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\katik\\Documents\\GitHub\\AJAXProject\\AdvancedAjax\\Views\\City\\_CreateModalForm.cshtml",
+              "RelativeDocumentMoniker": "Views\\City\\_CreateModalForm.cshtml",
+              "ToolTip": "C:\\Users\\katik\\Documents\\GitHub\\AJAXProject\\AdvancedAjax\\Views\\City\\_CreateModalForm.cshtml",
+              "RelativeToolTip": "Views\\City\\_CreateModalForm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T18:37:27.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CityController.cs",
+              "DocumentMoniker": "C:\\Users\\katik\\Documents\\GitHub\\AJAXProject\\AdvancedAjax\\Controllers\\CityController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CityController.cs",
+              "ToolTip": "C:\\Users\\katik\\Documents\\GitHub\\AJAXProject\\AdvancedAjax\\Controllers\\CityController.cs",
+              "RelativeToolTip": "Controllers\\CityController.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAcwHMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:26:04.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\katik\\Documents\\GitHub\\AJAXProject\\AdvancedAjax\\Models\\City.cs",
+              "RelativeDocumentMoniker": "Models\\City.cs",
+              "ToolTip": "C:\\Users\\katik\\Documents\\GitHub\\AJAXProject\\AdvancedAjax\\Models\\City.cs",
+              "RelativeToolTip": "Models\\City.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wBQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:29:42.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "C:\\Users\\katik\\Documents\\GitHub\\AJAXProject\\AdvancedAjax\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CountryController.cs",
+              "ToolTip": "C:\\Users\\katik\\Documents\\GitHub\\AJAXProject\\AdvancedAjax\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "Controllers\\CountryController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:00:11.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\katik\\Documents\\GitHub\\AJAXProject\\AdvancedAjax\\Views\\Customer\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Customer\\Index.cshtml",
@@ -106,12 +174,11 @@
               "RelativeToolTip": "Views\\Customer\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T18:03:32.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T18:03:32.953Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\katik\\Documents\\GitHub\\AJAXProject\\AdvancedAjax\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -119,12 +186,11 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T17:49:36.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T17:49:36.47Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "_CreateModalDialog.cshtml",
               "DocumentMoniker": "C:\\Users\\katik\\Documents\\GitHub\\AJAXProject\\AdvancedAjax\\Views\\Shared\\_CreateModalDialog.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_CreateModalDialog.cshtml",
@@ -132,8 +198,7 @@
               "RelativeToolTip": "Views\\Shared\\_CreateModalDialog.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T17:11:27.352Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T17:11:27.352Z"
             }
           ]
         }

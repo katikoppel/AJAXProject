@@ -63,9 +63,16 @@
             </div>
 
 
-            <div class="form-group">
+            <div class="form-group btn-group col-12">
+            <div class="col-11">
                 <label asp-for="CityId" class="control-label"></label>
                 <select id="lstCity" asp-for="CityId" class ="form-control" asp-items="ViewBag.Cities"></select>
+            </div>
+            <div class="col-1 mt-4">
+                    <button type="button" class="btn btn-success" onclick="showCityCreateModal()" ">
+                    +
+                </button>
+            </div>
             </div>
 
             <div class="col-md-12 btn-group pb-2">
@@ -117,11 +124,25 @@
 
             function showCountryCreateModal() {
                 $.get("/country/CreateModalForm", function (response) {
-                    $('#DivCreateDialog').html(response); 
-                    var modal = new bootstrap.Modal(document.getElementById('DivCreateDialogHolder'));
+                    $('#DivCreateDialog').html(response);
+                    var modal = bootstrap.Modal.getOrCreateInstance(document.getElementById('DivCreateDialogHolder'));
                     modal.show();
                 });
             }
+
+            function showCityCreateModal() {
+            var lstCountryCtrl = document.getElementById('lstCountryId');
+            var countryId = lstCountryCtrl?.options[lstCountryCtrl.selectedIndex]?.value;
+
+            $.get("/city/CreateModalForm?countryId=" + countryId, function (response) {
+                $('#DivCreateDialog').html(response);
+
+                var modalElement = document.getElementById('DivCreateDialogHolder');
+                var modal = bootstrap.Modal.getOrCreateInstance(modalElement);
+                modal.show();
+            });
+        }
+
 
 
 
