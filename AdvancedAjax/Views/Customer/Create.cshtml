@@ -115,6 +115,15 @@
 
     <script type="text/javascript">
 
+            function showCountryCreateModal() {
+                $.get("/country/CreateModalForm", function (response) {
+                    $('#DivCreateDialog').html(response); 
+                    var modal = new bootstrap.Modal(document.getElementById('DivCreateDialogHolder'));
+                    modal.show();
+                });
+            }
+
+
 
     </script>
 }

@@ -1,5 +1,8 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\Images\697bfb11-67c2-4b8b-9436-f68a1aa1e37c_Britney_Spears_2013_(Straighten_Crop).jpg
+wwwroot\Images\bcad73b5-1bb5-4aa1-8a07-70b3d8a81877_Britney_Spears_2013_(Straighten_Crop).jpg
+wwwroot\Images\noimage.png
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
@@ -46,6 +49,8 @@ wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
 wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
 wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
 wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery-ajax-unobtrusive\jquery.unobtrusive-ajax.js
+wwwroot\lib\jquery-ajax-unobtrusive\jquery.unobtrusive-ajax.min.js
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
@@ -58,7 +63,3 @@ wwwroot\lib\jquery\dist\jquery.js
 wwwroot\lib\jquery\dist\jquery.min.js
 wwwroot\lib\jquery\dist\jquery.min.map
 wwwroot\lib\jquery\LICENSE.txt
-wwwroot\Images\noimage.png
-wwwroot\Images\bcad73b5-1bb5-4aa1-8a07-70b3d8a81877_Britney_Spears_2013_(Straighten_Crop).jpg
-wwwroot\lib\jquery-ajax-unobtrusive\jquery.unobtrusive-ajax.js
-wwwroot\lib\jquery-ajax-unobtrusive\jquery.unobtrusive-ajax.min.js

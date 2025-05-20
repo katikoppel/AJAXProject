@@ -4,24 +4,23 @@
 @{
 }
 
-<div id="DivCreateDialogHolder" class="modal fade text-width:30%;"
-    role="dialog">
-
+<div id="DivCreateDialogHolder" class="modal fade" tabindex="-1" aria-hidden="true" style="width:30%;" role="dialog">
     <div class="modal-dialog">
         <div class="modal-content">
+
             <div class="modal-header">
                 <h2>Create</h2>
-                <button type="button" class="close" data-bs-dismiss="modal">&times;</button>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
 
             <div id="DivCreateDialog" class="modal-body">
+                <!-- Form content will be injected here -->
             </div>
 
-        <div class="modal-footer">
-            <button type="button" class="btn btn-danger" data-icon="Close" data-bs-dismiss="modal">Close</button>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+            </div>
+
         </div>
-
-    </div>
-
     </div>
 </div>
